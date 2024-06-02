@@ -42,7 +42,6 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
 ### Part 2:
 
-```markdown
 ## Code Overview
 
 ### main.py
