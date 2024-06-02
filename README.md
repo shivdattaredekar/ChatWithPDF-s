@@ -89,4 +89,9 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out to me at [shivdattaredekar@gmail.com].
+If you have any questions or feedback, feel free to reach out to me at
+- Shivdatta Redekar
+- shivdattaredekar@gmail.com
+- LinkedIn = https://www.linkedin.com/in/shivdatta-redekar-93ab1511a
+
+
