@@ -2,6 +2,8 @@
 
 ChatPDF is a Streamlit application that allows users to interact with PDF documents by uploading URLs of the PDFs and asking questions based on the content of those documents. The application leverages LangChain, OpenAI embeddings, and FAISS for text processing and similarity search.
 
+https://github.com/shivdattaredekar/ChatWithPDFsWithLLM/assets/46707992/bade4e5f-3da5-4e28-8f61-c8679785735d
+
 ## Features
 
 - Upload PDF URLs and extract their text content.
